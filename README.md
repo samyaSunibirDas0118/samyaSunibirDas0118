@@ -2,6 +2,11 @@
 <h3 align="center">A CSE graduate who has ventured into many different fields of CS and is ready to take on the world! or... whatever comes next</h3>
 
 - 🔭 I’m currently working on **Applied Machine Learning (Object Detection/Deep Learning Based Classification Tasks), Software Development, Quantum Machine Learning (Capstone Thesis)**
+- 🌱 I’m currently learning: Quantum Computing, Machine Learning techniques: Unsupervised Learning/GANs, NLP, Android (Flutter)
+- 📫 How to reach me: by dropping a mail on samya.das@northsouth.edu or samyadn7@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: i LOVE movies/filmmaking, football and not a soulless bag-chasing individual
+- 🧙 Proficient in (With completed projects): ML development frameworks: Pytorch, scikit-learning, all the popular visualization libraries, Qiskit (for Quantum Computing), Web Dev framework: Django
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

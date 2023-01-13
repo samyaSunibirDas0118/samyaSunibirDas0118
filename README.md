@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... i LOVE movies/filmmaking and not a completely soulless bag-chasing individual
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samyaSunibirDas0118&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samyaSunibirDas0118&theme=radical)
 

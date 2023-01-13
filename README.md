@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samya Sunibir Das</h1>
-<h3 align="center">A CSE graduate who has ventured into many different fields of CS and is ready to take on the world! or... whatever comes next</h3>
+<h3 align="center">A CSE graduate who has ventured into many different fields of CS and is now ready to take on the world! or... whatever comes next</h3>
 
 - 🔭 I’m currently working on **Applied Machine Learning (Object Detection/Deep Learning Based Classification Tasks), Software Development, Quantum Machine Learning (Capstone Thesis)**
 - 🌱 I’m currently learning: Quantum Computing, Machine Learning techniques: Unsupervised Learning/GANs, NLP, Android (Flutter)

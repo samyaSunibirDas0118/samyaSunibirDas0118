@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Science graduate who has ventured into many different fields of CS and is now ready to take on the world! or... whatever comes next</h3>
 
 - 🔭 I’m currently working on **Applied Machine Learning (NLP/DL), Software Development, Problem Solving**
-- 🌱 I’m currently learning: Quantum Computing, Machine Learning techniques: Unsupervised Learning/GANs, NLP
+- 🌱 I’m currently learning: Machine Learning techniques: Unsupervised Learning/GANs, NLP
 - 📫 How to reach me: by dropping an e-mail on samya.das@northsouth.edu or samyadn7@gmail.com
 - ⚡ Fun fact: i LOVE movies/filmmaking, football
 - 🧙 Proficient in (With completed projects): ML development frameworks: Pytorch, scikit-learning, all the popular visualization libraries, Qiskit (for Quantum Computing), Web Dev framework: Django
